@@ -5,7 +5,6 @@
 
 * {
   box-sizing: border-box;
-
 }
 
 
@@ -28,8 +27,7 @@ nav {
   margin: 0 24px;
 }
 
-
-.hero-container{
+.hero-container {
   margin: 0 24px;
 }
 
@@ -44,8 +42,6 @@ nav {
   height: 100vh;
   font-family: 'Poppins', sans-serif;
   color: #172B4D;
-  
-
 }
 
 .hero h1 {
@@ -53,14 +49,12 @@ nav {
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
-  
 }
 
 .hero p {
   margin: 0;
   font-weight: 350;
   font-size: 16px;
-  
 }
 
 .hero h6 {
@@ -68,7 +62,6 @@ nav {
   font-weight: 500;
   font-size:16px ;
   margin:10px 0px;
-  
   color: #7F8CFF;
 }
 
@@ -83,4 +76,9 @@ nav {
   background-color: #cea5a5;
   transition: .3s;
   cursor: pointer;
-  }
+}
+
+
+
+
+  
